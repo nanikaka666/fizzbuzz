@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/nanikaka666/fizzbuzz/issues"
   },
-  "homepage": "https://github.com/nanikaka666/fizzbuzz#readme"
+  "homepage": "https://github.com/nanikaka666/fizzbuzz#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.14"
+  }
 }
