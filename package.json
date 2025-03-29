@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/nanikaka666/fizzbuzz.git"
   },
+  "type": "commonjs",
   "keywords": [],
   "author": "",
   "license": "ISC",
