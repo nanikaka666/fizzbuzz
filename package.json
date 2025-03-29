@@ -1,5 +1,5 @@
 {
-  "name": "fizzbuzz",
+  "name": "@nanikaka666/fizzbuzz",
   "version": "1.0.0",
   "description": "This project is just only my practice to publishing a module to npmjs.",
   "main": "index.js",
